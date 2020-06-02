@@ -2,8 +2,8 @@
 		===========================================================================
 		Created on:     6/2/2020 10:41 PM
 		Created by:   	Anish Pathan
-		E-Mail:		    anishpathan92@outlook.com
-		GitHub:		    https://github.com/Anish-2108
+		E-Mail:		anishpathan92@outlook.com
+		GitHub:		https://github.com/Anish-2108
 		===========================================================================
 
 
